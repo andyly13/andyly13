@@ -5,7 +5,7 @@
 
 I  love learning about all things *tech* and am looking for opportunities to expand my knowledge in any way I can!
 
-I am currently working on a **personal website** and an [**X (formerly Twitter) account**](https://twitter.com/andeezsports) where I keep my followers updated on interesting analytical trends in sports!
+I am currently working on a [**personal website**](https://andyly13.github.io/) and an app named **Vital** where guardians are able to monitor their loved ones health remotely and communicate with them as well!
 
 #### Let's get in touch! Find me on [LinkedIn](www.linkedin.com/in/andrew-ly-770771208) or send me an [email](mailto::lyandrew2004@gmail.com) and I'll be sure to respond!
 
