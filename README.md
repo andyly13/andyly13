@@ -5,7 +5,12 @@
 
 I  love learning about all things *tech* and am looking for opportunities to expand my knowledge in any way I can!
 
-I am currently working on a [**personal website**](https://andyly13.github.io/) and an app named **Vital** where guardians are able to monitor their loved ones health remotely and communicate with them as well!
+
+Right now, I am an undergraduate research aide at UCI where I leverage NLP + various ML Libraries to extract relevant contract clause data. My largest impact has come from automating many tasks for my team of 
+10+ individuals, copying and moving more than 2000 relevant files and creating, reading, and updating more than 30 directories in Google Drive for my team to use. Please check out my clause-extraction repo to see my work!
+
+As for my personal projects, I am currently working on a [**personal website**](https://andyly13.github.io/) and an app named **Vital** where guardians are able to monitor their loved ones health remotely and communicate with them as well! You can also view these projects in my repositories!
+
 
 #### Let's get in touch! Find me on [LinkedIn](www.linkedin.com/in/andrew-ly-770771208) or send me an [email](mailto::lyandrew2004@gmail.com) and I'll be sure to respond!
 
