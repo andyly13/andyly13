@@ -6,7 +6,7 @@
 I  love learning about all things *tech* and am looking for opportunities to expand my knowledge in any way I can!
 
 
-Right now, I am a Software Engineering Intern at the Pacific Northwest National Labs where I work on the Computational Geophysics team. During my internship, I will be extending our existing codebase which processes and visualizes borehole flow as well as building and training a convolutional neural network to recognize minerals using hyperspectral data. 
+Right now, I am a **Software Engineering Intern** at the *Pacific Northwest National Labs* where I work on the Computational Geophysics team. During my internship, I will be extending our existing codebase which processes and visualizes borehole flow as well as building and training a convolutional neural network to recognize minerals using hyperspectral data. 
 
 As for my personal projects, I am currently working on a [**personal website**](https://andyly13.github.io/) and placed 1st at the Google Developer Student Challenge with my app, Vital. The Vital App's Repo is currently private, but feel free to check out me and my friend's winnning presentation featured at the top of my [LinkedIn](https://www.linkedin.com/in/andrew-ly-770771208/)!
 
