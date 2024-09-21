@@ -1,7 +1,7 @@
 ![Banner Image](https://media3.giphy.com/media/XD9o33QG9BoMis7iM4/giphy.gif?cid=ecf05e47qyu2asvu1xqso2tfhmha8w1vm952az592hlawuj1&ep=v1_gifs_search&rid=giphy.gif&ct=g)
 
 
-### What's up! My name is Andrew and I am a 2nd-year BIM Major @ UC Irvine.     
+### What's up! My name is Andrew and I am a 3rd-year BIM Major @ UC Irvine.     
 
 I  love learning about all things *tech* and am looking for opportunities to expand my knowledge in any way I can!
 
